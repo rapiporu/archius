@@ -1,0 +1,2 @@
+# archius
+dummy archlinux installation
